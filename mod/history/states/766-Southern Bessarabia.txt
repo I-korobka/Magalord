@@ -12,7 +12,8 @@ state=
 		}
 		
 		
-		owner = ROM
+		owner = ZZZ
+# owner = ROM
 		buildings = {
 			infrastructure = 2
 			dockyard = 1

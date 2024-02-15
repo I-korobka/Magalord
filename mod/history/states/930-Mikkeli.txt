@@ -7,7 +7,8 @@ state={
 	state_category = rural
 	
 	history={
-		owner = FIN
+		owner = ZZZ
+# owner = FIN
 		
 
 		victory_points = { #Mikkeli

@@ -11,7 +11,8 @@ state={
 
 
 	history={
-		owner = IRQ
+		owner = ZZZ
+# owner = IRQ
 		buildings = {
 			infrastructure = 2
 		}

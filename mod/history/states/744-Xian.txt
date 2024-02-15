@@ -6,7 +6,8 @@ state={
 	}
 
 	history={
-		owner = CHI
+		owner = ZZZ
+# owner = CHI
 		
 		
 		victory_points = {

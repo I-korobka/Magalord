@@ -5,7 +5,8 @@ state={
 		1923 2090 5037 8073 10786 12883 
 	}
 	history = {
-		owner = SAU
+		owner = ZZZ
+# owner = SAU
 		add_core_of	= SAU
 		buildings = {
 			infrastructure = 1

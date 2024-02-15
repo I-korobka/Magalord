@@ -29,7 +29,8 @@ state = {
 			1984 2
 		}
 		
-		owner = ETH
+		owner = ZZZ
+# owner = ETH
 		
 		
 

@@ -13,7 +13,8 @@ state = {
 			9296 3 
 		}
 		
-		owner = NOR
+		owner = ZZZ
+# owner = NOR
 		
 		buildings = {
 			infrastructure = 3

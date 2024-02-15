@@ -6,7 +6,8 @@ state={
 	}
 
 	history={
-		owner = TIB
+		owner = ZZZ
+# owner = TIB
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

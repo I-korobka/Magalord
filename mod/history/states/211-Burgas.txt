@@ -8,7 +8,8 @@ state={
 	state_category = town
 
 	history={
-		owner = BUL
+		owner = ZZZ
+# owner = BUL
 		victory_points = { #Varna
 			9783 5
 		}

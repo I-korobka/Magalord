@@ -12,7 +12,8 @@ state={
 	}
 
 	history={
-		owner = BHU
+		owner = ZZZ
+# owner = BHU
 		buildings = {
 			infrastructure = 1
 			#arms_factory = 1

@@ -7,7 +7,8 @@ state={
 	}
 
 	history={
-		owner = SIA
+		owner = ZZZ
+# owner = SIA
 		buildings = {
 			infrastructure = 2
 			#arms_factory = 1

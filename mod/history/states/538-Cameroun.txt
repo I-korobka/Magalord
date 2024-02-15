@@ -9,7 +9,8 @@ state={
 	manpower = 1693974
 
 	history={
-		owner = BEL
+		owner = ZZZ
+# owner = BEL
 		buildings = {
 			infrastructure = 1
 

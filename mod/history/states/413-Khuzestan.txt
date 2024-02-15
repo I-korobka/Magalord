@@ -11,7 +11,8 @@ state={
 	
 
 	history={
-		owner = PER
+		owner = ZZZ
+# owner = PER
 		buildings = {
 			infrastructure = 3 #was: 5
 			5005 = {

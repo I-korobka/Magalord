@@ -10,7 +10,8 @@ state={
 	state_category = rural
 	
 	history={
-		owner = LAT
+		owner = ZZZ
+# owner = LAT
 		victory_points = {
 			10493 1 #Valmiera
 		}

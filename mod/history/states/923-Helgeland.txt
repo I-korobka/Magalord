@@ -11,7 +11,8 @@ state = {
 	}
 
 	history = {
-		owner = NOR
+		owner = ZZZ
+# owner = NOR
 		
 		if = {
 			limit = {
