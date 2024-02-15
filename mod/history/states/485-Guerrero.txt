@@ -1,4 +1,3 @@
-
 state={
 	id=485
 	name="STATE_485"
@@ -12,7 +11,11 @@ state={
 
 
 	history={
-		owner = MEX
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

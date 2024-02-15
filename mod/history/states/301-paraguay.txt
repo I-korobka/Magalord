@@ -1,4 +1,3 @@
-
 state={
 	id=301
 	name="STATE_301"
@@ -7,7 +6,11 @@ state={
 	state_category = town
 	
 	history={
-		owner = PAR
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 2
 			#arms_factory = 1

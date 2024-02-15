@@ -1,10 +1,13 @@
-
 state={
 	id=353
 	name="STATE_353"
 
 	history={
-		owner = TUR
+
+
+		owner = ZZZ
+
+
 		victory_points = {
 			11853 3
 		}

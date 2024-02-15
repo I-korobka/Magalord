@@ -1,4 +1,3 @@
-
 state={
 	id=681
 	name="STATE_681" # Cape
@@ -7,7 +6,11 @@ state={
 	state_category = town
 
 	history={
-		owner = SAF
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2

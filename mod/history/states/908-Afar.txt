@@ -21,7 +21,11 @@ state = {
 		victory_points = {
 			13240 2 
 		}
-		owner = AFA
+
+
+		owner = ZZZ
+
+
 		
 		
 		1936.6.1 = {

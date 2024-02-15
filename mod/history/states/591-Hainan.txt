@@ -5,7 +5,11 @@ state={
 	state_category = town
 
 	history={
-		owner = GXC
+
+
+		owner = ZZZ
+
+
 		
 		
 		

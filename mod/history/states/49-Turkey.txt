@@ -1,4 +1,3 @@
-
 state={
 	id=49
 	name="STATE_49" # Ankara
@@ -11,7 +10,11 @@ state={
 	state_category = town
 
 	history={
-		owner = TUR
+
+
+		owner = ZZZ
+
+
 		victory_points = {
 			11747 15
 		}

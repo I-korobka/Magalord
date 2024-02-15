@@ -1,4 +1,3 @@
-
 state={
 	id=411
 	name="STATE_411" # Isfahan
@@ -10,7 +9,11 @@ state={
 	
 
 	history={
-		owner = PER
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 1
 		}

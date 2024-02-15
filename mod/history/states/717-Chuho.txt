@@ -5,7 +5,11 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = MAN
+
+
+		owner = ZZZ
+
+
 		
 		
 		

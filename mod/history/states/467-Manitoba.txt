@@ -1,10 +1,13 @@
-
 state={
 	id=467
 	name="STATE_467"
 
 	history={
-		owner = CAN
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

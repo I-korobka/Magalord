@@ -8,7 +8,11 @@ state=
 	
 	history= {
 		
-		owner = ROM
+
+
+		owner = ZZZ
+
+
 		victory_points = {
 			3707 1
 		}

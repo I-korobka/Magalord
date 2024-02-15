@@ -9,7 +9,11 @@ state = {
 	
 	
 	history = {
-		owner = FIN
+
+
+		owner = ZZZ
+
+
 		
 		
 		victory_points = { #Vaasa

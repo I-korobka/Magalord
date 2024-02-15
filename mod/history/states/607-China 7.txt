@@ -1,4 +1,3 @@
-
 state={
 	id=607
 	name="STATE_607"
@@ -9,7 +8,11 @@ state={
 	buildings_max_level_factor=1.000
 
 	history={
-		owner = CHI
+
+
+		owner = ZZZ
+
+
 		
 		
 		buildings = {

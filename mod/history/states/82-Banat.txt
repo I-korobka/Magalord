@@ -1,4 +1,3 @@
-
 state={
 	id=82
 	name="STATE_82"
@@ -13,7 +12,11 @@ state={
 		victory_points = {
 			9606 3
 		}
-		owner = ROM
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

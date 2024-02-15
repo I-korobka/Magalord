@@ -1,4 +1,3 @@
-
 state={
 	id=307
 	name="STATE_307" # Miranda
@@ -11,7 +10,11 @@ state={
 	}
 
 	history={
-		owner = VEN
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 2
 			#arms_factory = 1

@@ -1,4 +1,3 @@
-
 state={
 	id=468
 	name="STATE_468" # Saint Lawrence
@@ -11,7 +10,11 @@ state={
 	}
 
 	history={
-		owner = CAN
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 3 #was: 6
 			#arms_factory = 2

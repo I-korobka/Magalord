@@ -1,4 +1,3 @@
-
 state={
 	id=506
 	name="STATE_506" # Antofagasta
@@ -7,7 +6,11 @@ state={
 	state_category = rural
 
 	history={
-		owner = CHL
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2

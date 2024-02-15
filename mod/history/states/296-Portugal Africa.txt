@@ -1,4 +1,3 @@
-
 state={
 	id=296
 	name="STATE_296" # Guinea-Bissau
@@ -9,7 +8,11 @@ state={
 		rubber=1 # was: 1
 	}
 	history={
-		owner = POR
+
+
+		owner = ZZZ
+
+
 		
 		victory_points = {
 			12891 1

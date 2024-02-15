@@ -5,7 +5,11 @@ state = {
 	manpower = 45819
 
 	history = {
-		owner = DEN
+
+
+		owner = ZZZ
+
+
 		
 		buildings = {
 			infrastructure = 2

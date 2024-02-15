@@ -1,4 +1,3 @@
-
 state={
 	id=306
 	name="STATE_306" # Cundinamarca
@@ -7,7 +6,11 @@ state={
 	state_category = city
 	
 	history={
-		owner = COL
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 2
 			#arms_factory = 1

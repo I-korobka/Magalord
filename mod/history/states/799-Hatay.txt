@@ -20,7 +20,12 @@ state={
 		}
 
 		1938.9.30 = {
+<<<<<<< HEAD
 			owner = TUR
+
+			owner = ZZZ
+
+
 			controller = TUR
 		}
 	}

@@ -1,4 +1,3 @@
-
 state={
 	id=413
 	name="STATE_413"
@@ -11,7 +10,11 @@ state={
 	
 
 	history={
-		owner = PER
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 3 #was: 5
 			5005 = {

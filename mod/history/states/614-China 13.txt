@@ -1,4 +1,3 @@
-
 state={
 	id=614
 	name="STATE_614" # Hebei
@@ -7,7 +6,11 @@ state={
 	state_category = town
 
 	history={
-		owner = CHI
+
+
+		owner = ZZZ
+
+
 		
 		
 		buildings = {

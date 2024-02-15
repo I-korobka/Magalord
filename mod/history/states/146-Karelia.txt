@@ -6,7 +6,11 @@ state={
 	state_category = town
 
 	history={
-		owner = FIN
+
+
+		owner = ZZZ
+
+
 		
 		
 		buildings = {

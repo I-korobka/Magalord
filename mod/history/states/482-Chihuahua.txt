@@ -1,4 +1,3 @@
-
 state={
 	id=482
 	name="STATE_482"
@@ -7,7 +6,11 @@ state={
 	state_category = rural
 
 	history={
-		owner = MEX
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 2
 		}

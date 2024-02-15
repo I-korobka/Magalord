@@ -1,4 +1,3 @@
-
 state={
 	id=349
 	name="STATE_349"
@@ -7,7 +6,11 @@ state={
 	state_category = rural
 
 	history={
-		owner = TUR
+
+
+		owner = ZZZ
+
+
 		victory_points = {
 			9777 3 
 		}

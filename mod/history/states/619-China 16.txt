@@ -1,4 +1,3 @@
-
 state={
 	id=619
 	name="STATE_619" # Yarkand
@@ -12,7 +11,11 @@ state={
 	}
 
 	history={
-		owner = SIK
+
+
+		owner = ZZZ
+
+
 		
 		
 		

@@ -1,4 +1,3 @@
-
 state={
 	id=496
 	name="STATE_496" # Minas Gerais
@@ -11,7 +10,11 @@ state={
 	}
 
 	history={
-		owner = BRA
+
+
+		owner = ZZZ
+
+
 		victory_points = {
 			7476 3
 		}

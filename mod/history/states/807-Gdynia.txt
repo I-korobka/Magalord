@@ -1,4 +1,3 @@
-
 state={
 	id=807
 	name="STATE_807"
@@ -6,7 +5,11 @@ state={
 	
 	state_category = city
 	history={
-		owner = POL
+
+
+		owner = ZZZ
+
+
 		victory_points = {
 			9263 5
 		}

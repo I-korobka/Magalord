@@ -11,7 +11,11 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
-		owner = SIA
+
+
+		owner = ZZZ
+
+
 		
 	}
 	manpower=2000000

@@ -1,0 +1,13 @@
+characters={
+	ZZZ_Anarchy = {
+		name = ZZZ_Anarchy
+		portraits={
+			civilian={
+				large = "GFX_leader_unknown"
+			}
+		}
+		country_leader={
+			ideology = centrism
+		}
+	}
+}

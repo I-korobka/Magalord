@@ -1,4 +1,3 @@
-
 state={
 	id=335
 	name="STATE_335" # Java
@@ -12,7 +11,11 @@ state={
 	}
 
 	history={
-		owner = INS
+
+
+		owner = ZZZ
+
+
 		
 		victory_points = {
 			7381 5

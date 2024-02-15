@@ -38,7 +38,11 @@ state = {
 			12812 1
 		}
 		
-		owner = ETH
+
+
+		owner = ZZZ
+
+
 		
 		
 		

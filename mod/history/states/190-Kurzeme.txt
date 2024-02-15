@@ -1,4 +1,3 @@
-
 state={
 	id=190
 	name="STATE_190"
@@ -12,7 +11,11 @@ state={
 		victory_points = {
 			3296 1 #Ventspils
 		}
-		owner = LAT
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 3 #was: 5
 			9262 = {

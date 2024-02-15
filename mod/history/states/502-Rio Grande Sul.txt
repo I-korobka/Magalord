@@ -1,4 +1,3 @@
-
 state={
 	id=502
 	name="STATE_502"
@@ -7,7 +6,11 @@ state={
 	state_category = town
 
 	history={
-		owner = BRA
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 3 #was: 5
 			air_base = 2

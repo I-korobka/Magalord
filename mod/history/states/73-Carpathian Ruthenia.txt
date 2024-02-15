@@ -9,7 +9,11 @@ state={
 		victory_points = {
 			3548 1 
 		}
-		owner = CZE
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 3
 		}
@@ -18,7 +22,12 @@ state={
 		
 
 		1939.3.14 = {
+<<<<<<< HEAD
 			owner = HUN
+
+			owner = ZZZ
+
+
 			controller = HUN
 			remove_claim_by = HUN
 			

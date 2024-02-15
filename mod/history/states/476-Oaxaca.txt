@@ -1,4 +1,3 @@
-
 state={
 	id=476
 	name="STATE_476"
@@ -11,7 +10,11 @@ state={
 	}
 	
 	history={
-		owner = MEX
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 2
 			air_base = 2

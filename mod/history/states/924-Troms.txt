@@ -13,7 +13,11 @@ state = {
 		victory_points = {
 			11050 1
 		}
-		owner = NOR
+
+
+		owner = ZZZ
+
+
 		
 		if = {
 			limit = {

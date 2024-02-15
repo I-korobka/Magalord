@@ -10,7 +10,11 @@ state = {
 		steel=3 # was: 4
 	}
 	history={
-		owner = FIN
+
+
+		owner = ZZZ
+
+
 		
 
 		victory_points = { #Kuopio

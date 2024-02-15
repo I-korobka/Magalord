@@ -1,4 +1,3 @@
-
 state={
 	id=267
 	name="STATE_267" # Kabul
@@ -10,7 +9,11 @@ state={
 		tungsten=3 # was: 3
 	}
 	history={
-		owner = AFG
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 1
 			#arms_factory = 1

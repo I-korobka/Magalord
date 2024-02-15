@@ -1,10 +1,13 @@
-
 state={
 	id=815
 	name="STATE_815"
 
 	history={
-		owner = LIT
+
+
+		owner = ZZZ
+
+
 		victory_points = {
 			6229 1 #Panevezys
 		}

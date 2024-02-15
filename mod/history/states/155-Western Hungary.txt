@@ -1,4 +1,3 @@
-
 state={
 	id=155
 	name="STATE_155" # Transdanubia
@@ -10,7 +9,11 @@ state={
 		aluminium=60 # moved from Northern Hungary
 	}
 	history={
-		owner = HUN
+
+
+		owner = ZZZ
+
+
 		victory_points = {
 			11610 5 
 		}

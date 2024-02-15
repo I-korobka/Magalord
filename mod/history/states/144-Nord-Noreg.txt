@@ -18,7 +18,11 @@ state = {
 			9126 1
 		}
 		
-		owner = NOR
+
+
+		owner = ZZZ
+
+
 		
 		if = {
 			limit = {

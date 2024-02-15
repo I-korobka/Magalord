@@ -6,7 +6,11 @@ state=
 	manpower=11532
 	history=
 	{
-		owner = ECU
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 1
 			5023 = {

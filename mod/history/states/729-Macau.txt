@@ -6,7 +6,11 @@ state={
 	state_category = enclave
 	
 	history={
-		owner = POR
+
+
+		owner = ZZZ
+
+
 		
 		
 		victory_points = {

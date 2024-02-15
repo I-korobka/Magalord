@@ -5,12 +5,20 @@ state={
 	
 	state_category = city
 	history={
-		owner = POL
+
+
+		owner = ZZZ
+
+
 		victory_points = {
 			362 10
 		}
 		
+<<<<<<< HEAD
 		set_demilitarized_zone = yes
+
+		# set_demilitarized_zone = yes
+
 		
 		buildings = {
 			infrastructure = 3

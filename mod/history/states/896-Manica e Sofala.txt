@@ -4,7 +4,11 @@ state={
 	manpower = 188600
 	state_category = pastoral
 	history={
-		owner = POR
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 2
 

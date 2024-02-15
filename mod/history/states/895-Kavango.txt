@@ -1,4 +1,3 @@
-
 state={
 	id=895
 	name="STATE_895"
@@ -6,7 +5,11 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = SAF
+
+
+		owner = ZZZ
+
+
 		buildings = {
 			infrastructure = 2
 
