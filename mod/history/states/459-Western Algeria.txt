@@ -1,4 +1,3 @@
-
 state={
 	id=459
 	name="STATE_459" # Algiers

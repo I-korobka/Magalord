@@ -1,4 +1,3 @@
-
 state={
 	id=773
 	name="STATE_773" # Cameroon

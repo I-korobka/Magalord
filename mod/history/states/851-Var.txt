@@ -1,4 +1,3 @@
-
 state={
 	id=851
 	name="STATE_851" # Var (Split-off from former Provence now Bouches-du-Rhône)
