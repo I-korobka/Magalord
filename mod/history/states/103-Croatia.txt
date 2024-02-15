@@ -9,7 +9,7 @@ state={
 
 	history={
 		owner = ZZZ
-# owner = YUG
+
 		victory_points = { #Dubrovnik
 			6889 3 
 		}

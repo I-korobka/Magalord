@@ -21,7 +21,7 @@ state=
 			11401 3
 		}
 		owner = ZZZ
-# owner = CZE
+
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2

@@ -6,7 +6,7 @@ state={
 	state_category = pastoral
 	history={
 		owner = ZZZ
-# owner = AUS
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

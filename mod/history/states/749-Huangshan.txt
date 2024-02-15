@@ -9,7 +9,7 @@ state={
 	state_category=town
 	history={
 		owner = ZZZ
-# owner = CHI
+
 		
 		
 		buildings = {

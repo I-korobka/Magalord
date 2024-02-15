@@ -13,7 +13,7 @@ state={
 			422 3
 		}
 		owner = ZZZ
-# owner = POL
+
 		buildings = {
 			infrastructure = 3
 

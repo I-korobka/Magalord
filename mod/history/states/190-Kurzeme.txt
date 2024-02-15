@@ -13,7 +13,7 @@ state={
 			3296 1 #Ventspils
 		}
 		owner = ZZZ
-# owner = LAT
+
 		buildings = {
 			infrastructure = 3 #was: 5
 			9262 = {

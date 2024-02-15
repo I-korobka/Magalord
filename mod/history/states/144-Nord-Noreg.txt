@@ -19,7 +19,7 @@ state = {
 		}
 		
 		owner = ZZZ
-# owner = NOR
+
 		
 		if = {
 			limit = {

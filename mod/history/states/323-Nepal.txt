@@ -10,7 +10,7 @@ state={
 	}
 	history={
 		owner = ZZZ
-# owner = NEP
+
 		buildings = {
 			infrastructure = 2
 			#arms_factory = 1

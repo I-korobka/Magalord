@@ -7,7 +7,7 @@ state={
 	
 	history={
 		owner = ZZZ
-# owner = CZE
+
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -16,7 +16,7 @@ state={
 
 		1939.3.14 = {
 			owner = ZZZ
-# owner = POL
+
 			controller = POL
 		}
 	}

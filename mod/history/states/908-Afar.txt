@@ -22,7 +22,7 @@ state = {
 			13240 2 
 		}
 		owner = ZZZ
-# owner = AFA
+
 		
 		
 		1936.6.1 = {

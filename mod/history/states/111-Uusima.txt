@@ -8,7 +8,7 @@ state = {
 	
 	history = {
 		owner = ZZZ
-# owner = FIN
+
 		
 		victory_points = { #Helsinki
 			11105 15 

@@ -4,7 +4,7 @@ state={
 
 	history={
 		owner = ZZZ
-# owner = CHI
+
 		
 		
 		buildings = {

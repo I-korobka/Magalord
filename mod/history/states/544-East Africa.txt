@@ -5,7 +5,7 @@ state={
 	manpower = 1226000
 	history={
 		owner = ZZZ
-# owner = POR
+
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

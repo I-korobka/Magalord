@@ -8,7 +8,7 @@ state=
 	
 	history = {	
 		owner = ZZZ
-# owner = FIN
+
 		buildings = {
 			infrastructure = 1 #TODO_Manu: Was 2
 		}

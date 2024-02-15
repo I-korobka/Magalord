@@ -12,7 +12,7 @@ state = {
 	}
 	history={
 		owner = ZZZ
-# owner = FIN
+
 
 		victory_points = { #Kemi
 			11164 2

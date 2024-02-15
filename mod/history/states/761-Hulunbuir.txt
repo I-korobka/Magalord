@@ -9,7 +9,7 @@ state={
 	state_category = pastoral
 	history={
 		owner = ZZZ
-# owner = MAN
+
 		
 		
 		

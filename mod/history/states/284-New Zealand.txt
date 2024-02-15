@@ -8,7 +8,7 @@ state={
 	
 	history={
 		owner = ZZZ
-# owner = NZL
+
 		buildings = {
 			infrastructure = 3 #was: 6
 			#arms_factory = 1

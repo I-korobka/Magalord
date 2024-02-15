@@ -5,7 +5,7 @@ state = { # Jan Mayen
 	state_category = tiny_island
 	history = {
 		owner = ZZZ
-# owner = NOR
+
 		#		
 		
 		buildings = {

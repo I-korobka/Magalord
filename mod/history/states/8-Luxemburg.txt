@@ -13,7 +13,7 @@ state=
 	history=
 	{
 		owner = ZZZ
-# owner = LUX
+
 		buildings = {
 			infrastructure = 3
 			#arms_factory = 1

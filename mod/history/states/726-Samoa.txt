@@ -6,7 +6,7 @@ state={
 
 	history={
 		owner = ZZZ
-# owner = NZL
+
 		
 		buildings = {
 			infrastructure = 2
