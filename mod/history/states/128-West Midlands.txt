@@ -13,7 +13,7 @@ state={
 		owner = ENG
 		buildings = {
 			infrastructure = 4 #was: 8
-			arms_factory = 2
+			#arms_factory = 2
 			industrial_complex = 3
 			air_base = 6
 		}
@@ -23,7 +23,7 @@ state={
 		
 		1939.1.1 = {
 			buildings = {
-				arms_factory = 3
+				#arms_factory = 3
 				industrial_complex = 4
 			}
 		}
