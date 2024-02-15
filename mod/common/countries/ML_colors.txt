@@ -1,0 +1,4 @@
+ZZZ = { 
+	color = rgb { 33 10 10 }
+	color_ui = rgb { 33 10 10 }
+}
